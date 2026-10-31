@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/badge/GitHub-activity%20test-181717?logo=github&logoColor=white)
+
 # Activity Test
 
 A small repository used to validate GitHub activity, repository metadata, and contribution workflows.
