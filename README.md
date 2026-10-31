@@ -1,16 +1,5 @@
-Contribution: 2026-09-28 20:00
+# Activity Test
 
-Contribution: 2026-09-29 20:00
+A small repository used to validate GitHub activity, repository metadata, and contribution workflows.
 
-Contribution: 2026-09-29 20:01
-
-Contribution: 2026-09-30 20:00
-
-Contribution: 2026-10-01 20:00
-
-Contribution: 2026-10-01 20:01
-
-Contribution: 2026-10-02 20:00
-
-Contribution: 2026-10-02 20:01
-
+The project intentionally contains minimal source code. It is useful for testing commits, branches, automation, and profile activity without affecting a production application.
